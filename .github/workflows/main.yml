@@ -1,4 +1,4 @@
-name: Verify Human Identity
+name: clawhub search verified-agent-identity
 
 on:
   workflow_dispatch:
